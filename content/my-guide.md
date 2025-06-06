@@ -10,7 +10,7 @@ create quartz obsidian website : ) and run it locally and when i say then commit
 
 3. only if want to test locally then else anytime you can upload it to github pages too : )
 
-4. 
+4. be careful of rm -rf if kept file protection then no issue else could delete everything!
 
 
 
